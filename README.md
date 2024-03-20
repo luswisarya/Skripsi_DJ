@@ -1,4 +1,4 @@
-# Skripsi_DJ
+# Cara Install
 
 1. Menggunakan Python 3.8.x
  
