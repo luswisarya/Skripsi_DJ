@@ -1,0 +1,10 @@
+numpy
+torch
+Pillow
+mtcnn
+scikit-learn
+opencv-python
+face-recognition
+facenet-pytorch
+tensorflow
+mysql-connector
